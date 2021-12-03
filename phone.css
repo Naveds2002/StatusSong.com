@@ -1,0 +1,25 @@
+.aaa{
+    display: flex;
+    align-items: center;
+}
+
+.aaa video{
+    width: 300px;
+    height: 200px;
+}
+
+.aab{
+    padding-top: 30px;
+    display: flex;
+    align-items: center;
+}
+
+.aab video{
+    
+    width: 125px;
+    height: 100px;
+}
+
+.aab h2{
+    padding-top: 30px;
+}

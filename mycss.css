@@ -1,0 +1,75 @@
+.container button a{
+    text-decoration: none;
+    color: black;
+}
+.container button a:hover{
+    color: rgb(0, 0, 0);
+}
+.container button:hover{
+    background: linear-gradient(45deg,#f8ffbb,#ffd391);
+    border-radius: 10px;
+    transition:  ease-in-out 0.5s;
+    transform:translatey(-5px)
+}
+    
+.container button{
+    transition-property: background-color;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.latest{
+    margin: 50px 0;
+}
+
+.aaa{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.aaa h2 button a{
+    font-family: 'Crete Round', serif;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    padding-bottom: 5px;
+}
+.aaa h2 button{
+    background-color: #2980b9;
+    border-radius: 8px;
+    border: 2px solid white;
+}
+
+.navbar div ul li a:hover{
+    border-top: 1px solid rgb(0, 0, 0);
+    border-bottom: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+.aaa h2 button{
+    align-self: center;
+}
+
+.aab{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.aab h2 button a{
+    font-family: 'Crete Round', serif;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    padding-bottom: 5px;
+}
+.aab h2 button{
+    background-color: #2980b9;
+    border-radius: 8px;
+    border: 2px solid white;
+}
+
+.aab h2 button{
+    align-self: center;
+}
